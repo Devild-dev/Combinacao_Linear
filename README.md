@@ -5,7 +5,7 @@ Atividade de combinação linear
 * Tem que ter valor diferente de 0 (zero) no x,y,z do primeiro vetor;
 Ex. v1(1,-2,3)
 
-** Tem que ter pelo x,y ou x,z diferentes de 0 (zero) no dois últimos vetores;
+* Tem que ter pelo x,y ou x,z diferentes de 0 (zero) no dois últimos vetores;
 Ex. v2(2,0,3) ou v2(1,8,0) / v3(3,0,2) ou v2(2,5,0)
 
 
